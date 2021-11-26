@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SUBWAY CAFE</title>
+    <style>
+        body
+        {
+            background-color: darkblue;
+        }
+    </style>
+</head>
+<body>
+ <CEnter>
+     <H1 style="color: darkgrey; font-style:italic;">
+     SUBWAY CAFE
+     </H1>
+ </CEnter> 
+ <br>
+ <br>
+ <ul>
+ <h1 style="color: darkred;"><li>Snacks</li></h1> 
+ <h3 style="color: darkgoldenrod;">
+        <ol type="i">
+        <li>Dry Chili Mushroom</li>
+        <li>Veg Spring Roll</li>
+        <li>Chicken Cullet</li>
+        <li>Sumosa</li>
+        <li>Chicken Momo</li>
+        <li>Veg Momo</li>
+        <li>Chicken burgur</li>
+        <li>Fish Tikka</li>
+        <li>Chicken Tikka</li>
+        </h3>
+        </ol>
+ <h1 style="color:darkred;"><li>Drinks</li></h1>   
+ <h3 style="color: darkgoldenrod;">
+        <ol type="i">
+            <li>Chai</li>
+            <li>Masala Chai</li>
+            <li>Esposso</li>
+            <li>Latte</li>
+            <li>Coffe mochi</li>
+            <li>Coffe Macchito</li>
+            <li>Coffe Allpino</li>
+        
+            <li>Fippi Coffe</li>
+        </ol>
+
+ </h3>    
+    </ul>
+</body>
+</html>

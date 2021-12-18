@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  background-color: blue;
+  border: none;
+  color: white;
+  border-radius:30px;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.button:hover {opacity: 1}
+</style>
+</head>
+<body>
+
+<button class="button" onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+  dem=Math.floor(Math.random() * 10);
+  if(dem==1)
+  {
+  window.open("https://www.google.com/search?q=do+a+barrel+roll&rlz=1C1CHBF_enIN922IN922&oq=do+a+barrel+roll&aqs=chrome..69i57j46i433i512j0i67i433j0i67l7.7149j0j7&sourceid=chrome&ie=UTF-8");
+  }
+  if(dem==2)
+  
+  {
+  window.open("https://mrdoob.com/projects/chromeexperiments/google-gravity/");
+  }
+  if(dem==3)
+  {
+  window.open("https://www.google.com/search?q=Animal+sounds&source=hp&ei=ZniSYKn2H6mT4-EP4viK-Ag&iflsig=AINFCbYAAAAAYJKGdiIwnUe-5OD19C4-y5kOCgKxRVOi&oq=Animal+sounds&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAELEDMgUIABCxAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAUIcIWIcIYIwKaAFwAHgAgAGkAYgBpAGSAQMwLjGYAQCgAQKgAQGqAQdnd3Mtd2l6sAEA&sclient=gws-wiz&ved=0ahUKEwipwamtr7LwAhWpyTgGHWK8Ao8Q4dUDCAc&uact=5");
+  }
+  if(dem==4)
+  {
+  window,open("https://elgoog.im/thanos/");
+  }
+   if(dem==5)
+  {
+  window,open("https://elgoog.im/underwater/");
+  }
+   if(dem==6)
+  {
+  window,open("https://elgoog.im/zipper/");
+  }
+   if(dem==7)
+  {
+  window,open("https://elgoog.im/google-fan/");
+  }
+   if(dem==8)
+  {
+  window,open("https://elgoog.im/goooooooooooooooooogle/");
+  }
+   if(dem==9)
+  {
+  window,open("https://elgoog.im/let-it-snow/");
+  }
+if(dem==10)
+{
+window.open("https://elgoog.im/google-mirror/");
+}
+}
+</script>
+
+</body>
+</html>
